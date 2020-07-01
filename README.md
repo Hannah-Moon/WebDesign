@@ -4,8 +4,8 @@ I am going to use this repository to keep as a library collection of useful info
 It will give a quick reference providing an introduction to guidelines which will help develpers meet accessibility standards. 
 
 # Useful Website
-(www.bbc.co.uk)[www.bbc.co.uk]guidelines/futuremedia/accessibility]: BBC Web Design Standard 
-(www.w3schools.com)[www.w3schools.com]: W3 is the world's largest web developer site 
+-[www.bbc.co.uk](www.bbc.co.uk]guidelines/futuremedia/accessibility): BBC Web Design Standard 
+-[www.w3schools.com](www.w3schools.com): W3 is the world's largest web developer site 
 
 # Style
 More and more desktop screen web page should be able to accomoate mobile size of screen to meet the needs of user. There are two major different ways to achievec this. 
