@@ -1,5 +1,5 @@
 # WebDesign
-This repository is a personals learning engagement repository of WebDesign, UX/UI experience Design, and Illustration.  
+This repository holds my personals learning experience of WebDesign, UX/UI experience Design, and Illustration.  
 I am going to use this repository to keep as a library collection of useful information.  
 It will give a quick reference providing an introduction to guidelines which will help develpers meet accessibility standards. 
 
